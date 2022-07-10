@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-decoration: none;
+    overflow: hidden;
+    background-color: rgb(226, 226, 226);
+}
+
+.header{
+    width: 100vw;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo{
+    margin-left: 150px;
+}
+
+#links{
+    font-size: 20px;
+    align-items: flex-end;
+    margin-right: 170px;
+    word-spacing: 35px;
+}
+
+.conteudo-pagina{
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.coluna1{
+    width: auto;
+    height: auto;
+    display: flex;
+}
+
+.texto{
+    margin: 0 auto;
+    height: max-content;
+    width: 80%;
+    text-align: start;
+    align-items: center;
+}
+
+button{
+    background-color: #036635;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    width: 110px;
+}
+
+.coluna2{
+    width: 100vmax;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+}
+
+img{
+    margin-top: 100px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.filho{
+    background-color: #38634d;
+    height: 50vh;
+    width: 100vw;
+    word-spacing: 70px;
+    padding-left: 800px;
+    padding-top: 50px;
+}
+
+span{
+    color: #036635;
+}
+
+h1{
+    font-size: 50px;
+}
+
+strong{
+    color: rgb(95, 95, 95);
+}
+
